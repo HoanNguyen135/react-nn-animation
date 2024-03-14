@@ -1,0 +1,15 @@
+{
+  "name": "react-nn-animation",
+  "version": "1.0.1",
+  "typings": null,
+  "description": "react-nn-animation",
+  "main": "main.js",
+  "scripts": {},
+  "author": "HoanNguyen135",
+  "repository": "https://github.com/HoanNguyen135/react-nn-animtion",
+  "license": "MIT",
+  
+  "dependencies": {
+      "react-native-animation-story": "*"
+  }
+}
