@@ -1,12 +1,12 @@
 {
   "name": "react-nn-animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "typings": null,
   "description": "react-nn-animation",
   "main": "main.js",
   "scripts": {},
   "author": "HoanNguyen135",
-  "repository": "https://github.com/HoanNguyen135/react-nn-animtion",
+  "repository": "https://github.com/HoanNguyen135/react-nn-animation",
   "license": "MIT",
   
   "dependencies": {
