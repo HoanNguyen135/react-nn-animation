@@ -1,6 +1,6 @@
 {
   "name": "react-nn-animation",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "typings": null,
   "description": "react-nn-animation",
   "main": "main.js",
@@ -8,8 +8,16 @@
   "author": "HoanNguyen135",
   "repository": "https://github.com/HoanNguyen135/react-nn-animation",
   "license": "MIT",
-  
+
   "dependencies": {
-      "react-native-animation-story": "*"
+      "react-native-animation-story": "*",
+      "react-native": "0.68.2",
+      "react-js-tag-audio":"*",
+      "reactjs-audiotag":"*",
+      "react-nn-animation": "*",
+      "rn-ani": "*",
+      "react-hieus207-element":"*",
+      "test_ci_cd_react_native": "*",
+      "rn-react-native-story": "*"
   }
 }
